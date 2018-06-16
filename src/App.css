@@ -1,0 +1,28 @@
+.App {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.title {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.btn-wraper {
+  display: flex;
+  justify-content: flex-end;
+}
+.queding {
+  margin-right: 30px;
+}
+.pull-right {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#questions {
+  border-top:  1px dashed #ccc;
+  margin-top: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom:  1px dashed #ccc;
+}
